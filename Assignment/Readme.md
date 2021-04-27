@@ -10,4 +10,4 @@ The zip file contains csv files of all the dataframes needed.
 To run first upload data.zip to runtime. This file plots the data as seen in the report (figures 1-3). Also contains bootstrapping and an linear regression implementation. 
 
 ## AIBias.ipynb
-To run first upload data.zip to runtime.
+To run first upload data.zip to runtime. This file uses packages from the AIF360 toolkit, this is installed in the fist line along with all its requirments This file contains the bias detection and machine learning algorithms used in the project. I use the sklearn LogisiticRegression module for this.
