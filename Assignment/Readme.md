@@ -7,7 +7,7 @@ Run all to download data and preprocess it. Data collected and processed is outp
 The zip file contains csv files of all the dataframes needed.
 
 ## plots.ipynb
-To run first upload data.zip to runtime.
+To run first upload data.zip to runtime. This file plots the data as seen in the report (figures 1-3). Also contains bootstrapping and an linear regression implementation. 
 
 ## AIBias.ipynb
 To run first upload data.zip to runtime.
